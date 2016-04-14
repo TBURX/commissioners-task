@@ -15,124 +15,136 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -.766044438, y: 0, z: 0, w: .642787635}
+        value: {x: -0.76604444, y: 0, z: 0, w: 0.64278764}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftWingsJet/AircraftWingsJetDoorLeftFront
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: .707106769, y: 0, z: 0, w: .707106769}
+        value: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftWingsJet/AircraftWingsJetDoorLeftRear
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -.766044438, y: 0, z: 0, w: .642787635}
+        value: {x: -0.76604444, y: 0, z: 0, w: 0.64278764}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftWingsJet/AircraftWingsJetDoorRightFront
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: .707106769, y: 0, z: 0, w: .707106769}
+        value: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftWingsJet/AircraftWingsJetDoorRightRear
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: .707106769, y: 0, z: 0, w: -.707106769}
+        value: {x: 0.70710677, y: 0, z: 0, w: -0.70710677}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftWingsJet/AircraftWingsJetGearRight
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -.707106769, y: 0, z: 0, w: .707106769}
+        value: {x: -0.70710677, y: 0, z: 0, w: 0.70710677}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftWingsJet/AircraftWingsJetGearLeft
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -.707106769, y: 3.93351968e-07, z: 3.93351968e-07, w: .707106769}
+        value: {x: -0.70710677, y: 0.00000039335197, z: 0.00000039335197, w: 0.70710677}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftWingsJet/AircraftWingsJetGearFront
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: .504344225, y: .495617718, z: -.495617956, w: -.504343808}
+        value: {x: 0.5043442, y: 0.49561772, z: -0.49561796, w: -0.5043438}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftFuselage/AircraftFuselageGearDoorRight
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: .504344106, y: -.495617837, z: .495617837, w: -.504343927}
+        value: {x: 0.5043441, y: -0.49561784, z: 0.49561784, w: -0.5043439}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
   m_CompressedRotationCurves: []
+  m_EulerCurves: []
   m_PositionCurves:
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: .414853632, y: .975661993, z: 6.56323242}
+        value: {x: 0.41485363, y: 0.975662, z: 6.5632324}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 920005248
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftFuselage/AircraftFuselageGearDoorRight
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -.41829738, y: .975539744, z: 6.56323242}
+        value: {x: -0.41829738, y: 0.97553974, z: 6.5632324}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 920746704
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
   m_ScaleCurves: []
   m_FloatCurves: []
@@ -213,11 +225,14 @@ AnimationClip:
     pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
     m_StopTime: 0
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
     m_LoopTime: 0
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
@@ -233,12 +248,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -.766044438
+        value: -0.76604444
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.x
     path: AircraftWingsJet/AircraftWingsJetDoorLeftFront
     classID: 4
@@ -253,6 +269,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.y
     path: AircraftWingsJet/AircraftWingsJetDoorLeftFront
     classID: 4
@@ -267,6 +284,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.z
     path: AircraftWingsJet/AircraftWingsJetDoorLeftFront
     classID: 4
@@ -275,12 +293,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .642787635
+        value: 0.64278764
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.w
     path: AircraftWingsJet/AircraftWingsJetDoorLeftFront
     classID: 4
@@ -289,12 +308,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .707106769
+        value: 0.70710677
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.x
     path: AircraftWingsJet/AircraftWingsJetDoorLeftRear
     classID: 4
@@ -309,6 +329,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.y
     path: AircraftWingsJet/AircraftWingsJetDoorLeftRear
     classID: 4
@@ -323,6 +344,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.z
     path: AircraftWingsJet/AircraftWingsJetDoorLeftRear
     classID: 4
@@ -331,12 +353,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .707106769
+        value: 0.70710677
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.w
     path: AircraftWingsJet/AircraftWingsJetDoorLeftRear
     classID: 4
@@ -345,12 +368,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -.766044438
+        value: -0.76604444
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.x
     path: AircraftWingsJet/AircraftWingsJetDoorRightFront
     classID: 4
@@ -365,6 +389,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.y
     path: AircraftWingsJet/AircraftWingsJetDoorRightFront
     classID: 4
@@ -379,6 +404,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.z
     path: AircraftWingsJet/AircraftWingsJetDoorRightFront
     classID: 4
@@ -387,12 +413,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .642787635
+        value: 0.64278764
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.w
     path: AircraftWingsJet/AircraftWingsJetDoorRightFront
     classID: 4
@@ -401,12 +428,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .707106769
+        value: 0.70710677
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.x
     path: AircraftWingsJet/AircraftWingsJetDoorRightRear
     classID: 4
@@ -421,6 +449,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.y
     path: AircraftWingsJet/AircraftWingsJetDoorRightRear
     classID: 4
@@ -435,6 +464,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.z
     path: AircraftWingsJet/AircraftWingsJetDoorRightRear
     classID: 4
@@ -443,12 +473,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .707106769
+        value: 0.70710677
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.w
     path: AircraftWingsJet/AircraftWingsJetDoorRightRear
     classID: 4
@@ -457,12 +488,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .707106769
+        value: 0.70710677
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.x
     path: AircraftWingsJet/AircraftWingsJetGearRight
     classID: 4
@@ -477,6 +509,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.y
     path: AircraftWingsJet/AircraftWingsJetGearRight
     classID: 4
@@ -491,6 +524,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.z
     path: AircraftWingsJet/AircraftWingsJetGearRight
     classID: 4
@@ -499,12 +533,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -.707106769
+        value: -0.70710677
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.w
     path: AircraftWingsJet/AircraftWingsJetGearRight
     classID: 4
@@ -513,12 +548,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -.707106769
+        value: -0.70710677
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.x
     path: AircraftWingsJet/AircraftWingsJetGearLeft
     classID: 4
@@ -533,6 +569,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.y
     path: AircraftWingsJet/AircraftWingsJetGearLeft
     classID: 4
@@ -547,6 +584,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.z
     path: AircraftWingsJet/AircraftWingsJetGearLeft
     classID: 4
@@ -555,12 +593,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .707106769
+        value: 0.70710677
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.w
     path: AircraftWingsJet/AircraftWingsJetGearLeft
     classID: 4
@@ -569,12 +608,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -.707106769
+        value: -0.70710677
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.x
     path: AircraftWingsJet/AircraftWingsJetGearFront
     classID: 4
@@ -583,12 +623,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: 3.93351968e-07
+        value: 0.00000039335197
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.y
     path: AircraftWingsJet/AircraftWingsJetGearFront
     classID: 4
@@ -597,12 +638,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: 3.93351968e-07
+        value: 0.00000039335197
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.z
     path: AircraftWingsJet/AircraftWingsJetGearFront
     classID: 4
@@ -611,12 +653,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .707106769
+        value: 0.70710677
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.w
     path: AircraftWingsJet/AircraftWingsJetGearFront
     classID: 4
@@ -625,12 +668,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .414853632
+        value: 0.41485363
         inSlope: 0
         outSlope: 0
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalPosition.x
     path: AircraftFuselage/AircraftFuselageGearDoorRight
     classID: 4
@@ -639,12 +683,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .975661993
+        value: 0.975662
         inSlope: 0
         outSlope: 0
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalPosition.y
     path: AircraftFuselage/AircraftFuselageGearDoorRight
     classID: 4
@@ -653,12 +698,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: 6.56323242
+        value: 6.5632324
         inSlope: 0
         outSlope: 0
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalPosition.z
     path: AircraftFuselage/AircraftFuselageGearDoorRight
     classID: 4
@@ -667,12 +713,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .504344225
+        value: 0.5043442
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.x
     path: AircraftFuselage/AircraftFuselageGearDoorRight
     classID: 4
@@ -681,12 +728,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .495617718
+        value: 0.49561772
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.y
     path: AircraftFuselage/AircraftFuselageGearDoorRight
     classID: 4
@@ -695,12 +743,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -.495617956
+        value: -0.49561796
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.z
     path: AircraftFuselage/AircraftFuselageGearDoorRight
     classID: 4
@@ -709,12 +758,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -.504343808
+        value: -0.5043438
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.w
     path: AircraftFuselage/AircraftFuselageGearDoorRight
     classID: 4
@@ -723,12 +773,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -.41829738
+        value: -0.41829738
         inSlope: 0
         outSlope: 0
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalPosition.x
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
     classID: 4
@@ -737,12 +788,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .975539744
+        value: 0.97553974
         inSlope: 0
         outSlope: 0
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalPosition.y
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
     classID: 4
@@ -751,12 +803,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: 6.56323242
+        value: 6.5632324
         inSlope: 0
         outSlope: 0
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalPosition.z
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
     classID: 4
@@ -765,12 +818,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .504344106
+        value: 0.5043441
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.x
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
     classID: 4
@@ -779,12 +833,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -.495617837
+        value: -0.49561784
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.y
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
     classID: 4
@@ -793,12 +848,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .495617837
+        value: 0.49561784
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.z
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
     classID: 4
@@ -807,12 +863,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -.504343927
+        value: -0.5043439
         inSlope: 0
         outSlope: 0
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalRotation.w
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
     classID: 4
@@ -828,6 +885,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.x
     path: AircraftWingsJet/AircraftWingsJetDoorLeftFront
     classID: 4
@@ -842,6 +900,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.y
     path: AircraftWingsJet/AircraftWingsJetDoorLeftFront
     classID: 4
@@ -856,6 +915,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.z
     path: AircraftWingsJet/AircraftWingsJetDoorLeftFront
     classID: 4
@@ -870,6 +930,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.x
     path: AircraftWingsJet/AircraftWingsJetDoorLeftRear
     classID: 4
@@ -884,6 +945,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.y
     path: AircraftWingsJet/AircraftWingsJetDoorLeftRear
     classID: 4
@@ -898,6 +960,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.z
     path: AircraftWingsJet/AircraftWingsJetDoorLeftRear
     classID: 4
@@ -912,6 +975,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.x
     path: AircraftWingsJet/AircraftWingsJetDoorRightFront
     classID: 4
@@ -926,6 +990,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.y
     path: AircraftWingsJet/AircraftWingsJetDoorRightFront
     classID: 4
@@ -940,6 +1005,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.z
     path: AircraftWingsJet/AircraftWingsJetDoorRightFront
     classID: 4
@@ -954,6 +1020,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.x
     path: AircraftWingsJet/AircraftWingsJetDoorRightRear
     classID: 4
@@ -968,6 +1035,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.y
     path: AircraftWingsJet/AircraftWingsJetDoorRightRear
     classID: 4
@@ -982,6 +1050,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.z
     path: AircraftWingsJet/AircraftWingsJetDoorRightRear
     classID: 4
@@ -996,6 +1065,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.x
     path: AircraftWingsJet/AircraftWingsJetGearRight
     classID: 4
@@ -1010,6 +1080,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.y
     path: AircraftWingsJet/AircraftWingsJetGearRight
     classID: 4
@@ -1024,6 +1095,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.z
     path: AircraftWingsJet/AircraftWingsJetGearRight
     classID: 4
@@ -1038,6 +1110,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.x
     path: AircraftWingsJet/AircraftWingsJetGearLeft
     classID: 4
@@ -1052,6 +1125,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.y
     path: AircraftWingsJet/AircraftWingsJetGearLeft
     classID: 4
@@ -1066,6 +1140,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.z
     path: AircraftWingsJet/AircraftWingsJetGearLeft
     classID: 4
@@ -1080,6 +1155,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.x
     path: AircraftWingsJet/AircraftWingsJetGearFront
     classID: 4
@@ -1094,6 +1170,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.y
     path: AircraftWingsJet/AircraftWingsJetGearFront
     classID: 4
@@ -1108,6 +1185,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.z
     path: AircraftWingsJet/AircraftWingsJetGearFront
     classID: 4
@@ -1122,6 +1200,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.x
     path: AircraftFuselage/AircraftFuselageGearDoorRight
     classID: 4
@@ -1136,6 +1215,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.y
     path: AircraftFuselage/AircraftFuselageGearDoorRight
     classID: 4
@@ -1144,12 +1224,13 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: 90.0000305
+        value: 90.00003
         inSlope: 0
         outSlope: 0
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.z
     path: AircraftFuselage/AircraftFuselageGearDoorRight
     classID: 4
@@ -1164,6 +1245,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.x
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
     classID: 4
@@ -1178,6 +1260,7 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.y
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
     classID: 4
@@ -1192,10 +1275,12 @@ AnimationClip:
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: localEulerAnglesBaked.z
     path: AircraftFuselage/AircraftFuselageGearDoorLeft
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
   m_GenerateMotionCurves: 0
   m_Events: []

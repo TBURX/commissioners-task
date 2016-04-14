@@ -2,14 +2,16 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 3
+  serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: ParticleFireball
   m_Shader: {fileID: 200, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: []
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
   m_CustomRenderQueue: -1
+  stringTagMap: {}
   m_SavedProperties:
     serializedVersion: 2
     m_TexEnvs:
@@ -24,9 +26,9 @@ Material:
       data:
         first:
           name: _InvFade
-        second: 1.48053575
+        second: 1.4805357
     m_Colors:
       data:
         first:
           name: _TintColor
-        second: {r: .450980395, g: .345961004, b: .334256053, a: .349019617}
+        second: {r: 0.4509804, g: 0.345961, b: 0.33425605, a: 0.34901962}

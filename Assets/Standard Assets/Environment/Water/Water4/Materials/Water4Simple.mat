@@ -113,6 +113,10 @@ Material:
         second: {r: 1, g: 1, b: 1, a: 1}
       data:
         first:
+          name: _SpecularColor
+        second: {r: 0.82089555, g: 0.80581594, b: 0.7718869, a: 1}
+      data:
+        first:
           name: _DistortParams
         second: {r: 1.0285715, g: 0.20187221, b: 2.766625, a: -0.41714284}
       data:
@@ -143,10 +147,6 @@ Material:
         first:
           name: _ReflectionColor
         second: {r: 0.47582978, g: 0.6064865, b: 0.6641791, a: 0.47058824}
-      data:
-        first:
-          name: _SpecularColor
-        second: {r: 0.82089555, g: 0.80581594, b: 0.7718869, a: 1}
       data:
         first:
           name: _WorldLightDir
