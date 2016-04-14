@@ -14,6 +14,8 @@ namespace Assets.GameScripts.MainPerson
         public Image toolTips;
         public Text m_TextCursor;
 
+        public bool menuIsActive = false;//для нормальной работы меню
+
         public Vector2 rotationRange = new Vector3(70, 70);
         public float rotationSpeed = 2;
         public float dampingTime = 0.2f;
@@ -111,8 +113,11 @@ namespace Assets.GameScripts.MainPerson
 
         private void FixedUpdate()
         {
-            scroll();
-            KeyControll();
+            if (!menuIsActive)//для нормальной работы меню
+            {
+                scroll();
+                KeyControll();
+            }
         }
 
         //Какая-то магия, которая работает О_о
@@ -146,7 +151,6 @@ namespace Assets.GameScripts.MainPerson
 
             Transform leftBall = GameObject.Find("left90").transform;
             Transform rightBall = GameObject.Find("right90").transform;
-
 
             if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.S))
             {                
@@ -229,14 +233,16 @@ namespace Assets.GameScripts.MainPerson
 
         private void ControlCursor()
         {
-
-            if (Input.GetKey(KeyCode.LeftControl))
+            if (!menuIsActive)//для нормальной работы меню
             {
-                Screen.lockCursor = false;
-            }
-            else
-            {
-                Screen.lockCursor = true;
+                if (Input.GetKey(KeyCode.LeftControl))
+                {
+                    Screen.lockCursor = false;
+                }
+                else
+                {
+                    Screen.lockCursor = true;
+                }
             }
 
             //О мой чай!!!!! Оно работает! Оно живет!!!!! Не трогать! Понял?!
