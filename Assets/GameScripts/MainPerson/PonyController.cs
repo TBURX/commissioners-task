@@ -60,15 +60,17 @@ namespace Assets.GameScripts.MainPerson
 
         private void Update()
         {
-            transform.position = player.transform.position + new Vector3(0, 0.5f ,0);
-            ControlCursor();
-            ScrCam.fieldOfView = Mathf.Lerp(ScrCam.fieldOfView, distance, Time.deltaTime * 2);
-            // we make initial calculations from the original local rotation
+            if (!menuIsActive)
+            {
+                transform.position = player.transform.position + new Vector3(0, 0.5f, 0);
+                ControlCursor();
+                ScrCam.fieldOfView = Mathf.Lerp(ScrCam.fieldOfView, distance, Time.deltaTime * 2);
+                // we make initial calculations from the original local rotation
                 transform.localRotation = m_OriginalRotation;
 
-            // read input from mouse or mobile controls
-            float inputH;
-            float inputV;
+                // read input from mouse or mobile controls
+                float inputH;
+                float inputV;
                 inputH = CrossPlatformInputManager.GetAxis("Mouse X");
                 inputV = CrossPlatformInputManager.GetAxis("Mouse Y");
 
@@ -109,6 +111,7 @@ namespace Assets.GameScripts.MainPerson
 
                 transform.localRotation = m_OriginalRotation * Quaternion.Euler(-m_FollowAngles.x, m_FollowAngles.y, 0);
                 m_Angle = transform.localRotation;
+            }
         }
 
         private void FixedUpdate()
