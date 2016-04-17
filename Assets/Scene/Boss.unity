@@ -776,38 +776,10 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
-    - target: {fileID: 22482972, guid: 2004356e7a9b66640b1dc7fb5f1347d7, type: 2}
-      propertyPath: m_SizeDelta.y
-      value: 1525
-      objectReference: {fileID: 0}
-    - target: {fileID: 160136, guid: 2004356e7a9b66640b1dc7fb5f1347d7, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 180914, guid: 2004356e7a9b66640b1dc7fb5f1347d7, type: 2}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22466398, guid: 2004356e7a9b66640b1dc7fb5f1347d7, type: 2}
-      propertyPath: m_AnchorMax.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22466398, guid: 2004356e7a9b66640b1dc7fb5f1347d7, type: 2}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22444244, guid: 2004356e7a9b66640b1dc7fb5f1347d7, type: 2}
-      propertyPath: m_AnchorMin.y
-      value: 0.9549508
-      objectReference: {fileID: 0}
-    - target: {fileID: 22444244, guid: 2004356e7a9b66640b1dc7fb5f1347d7, type: 2}
-      propertyPath: m_AnchorMax.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22444244, guid: 2004356e7a9b66640b1dc7fb5f1347d7, type: 2}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
+    - target: {fileID: 11459158, guid: 2004356e7a9b66640b1dc7fb5f1347d7, type: 2}
+      propertyPath: camera
+      value: 
+      objectReference: {fileID: 256227332}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2004356e7a9b66640b1dc7fb5f1347d7, type: 2}
   m_IsPrefabParent: 0
