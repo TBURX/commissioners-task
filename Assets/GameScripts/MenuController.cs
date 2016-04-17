@@ -15,6 +15,7 @@ public class MenuController : MonoBehaviour {
     public Dropdown resolutionsDropdown;
     private bool dropdownIsSet = false;
     public Toggle fullscreenToggle;
+    public GameObject playerGui;
 
     public GameObject camera;
     private VignetteAndChromaticAberration blur;
@@ -45,6 +46,7 @@ public class MenuController : MonoBehaviour {
             if (mainMenu.activeInHierarchy)
             {
                 mainMenu.SetActive(false);
+                if( playerGui != null) playerGui.SetActive(true);
                 blur.enabled = false;
                 Cursor.lockState = CursorLockMode.Locked;
                 Cursor.visible = false;
@@ -72,6 +74,7 @@ public class MenuController : MonoBehaviour {
                     controlsMenu.SetActive(false);
                 }
                 mainMenu.SetActive(true);
+                if (playerGui != null) playerGui.SetActive(false);
                 blur.enabled = true;
                 Cursor.lockState=CursorLockMode.Confined;
                 Cursor.visible = true;
@@ -84,6 +87,7 @@ public class MenuController : MonoBehaviour {
     public void CloseMenu()
     {
         mainMenu.SetActive(false);
+        if (playerGui != null) playerGui.SetActive(true);
         blur.enabled = false;
         newGameMenu.SetActive(false);
         optionsMenu.SetActive(false);
